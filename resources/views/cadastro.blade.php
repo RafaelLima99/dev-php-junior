@@ -39,7 +39,7 @@
           </div>
           <div class="col-md-4">
             <label for="inputEstado" class="form-label label-input">Estado:</label>
-            <input id="inputEstado" class="form-control" name="estado">
+            <input id="inputEstado" class="form-control" name="estado" readonly>
           </div>
           <div class="col-md-4">
             <label for="inputCidade" class="form-label label-input">Cidade:</label>
